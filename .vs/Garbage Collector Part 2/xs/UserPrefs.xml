@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{AF6C9A9F-4673-C6AE-7C14-EBBF7C025B09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Shredder.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FruitsSpawner.cs" Line="37" Column="34" />
+      <File FileName="Assets/Scripts/PaddleMovement.cs" Line="58" Column="53" />
+      <File FileName="Assets/Scripts/JoystickPaddle.cs" Line="33" Column="32" />
+      <File FileName="Assets/Scripts/SceneChanger.cs" Line="26" Column="6" />
+      <File FileName="Assets/Shredder.cs" Line="59" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9f4403e-d11f-4d4c-b1af-24a8cdc8be25" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
